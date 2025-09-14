@@ -1,4 +1,4 @@
-# CSCA: Introduction to Deep Learning Final Project
+# Introduction to Deep Learning Final Project
 
 ## 1. Project Overview
 
