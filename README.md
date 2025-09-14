@@ -1,3 +1,5 @@
+# CSCA: Introduction to Deep Learning Final Project
+
 ## 1. Project Overview
 
 While deepfake technology can be useful in some areas such as entertainment and education, its misuse can cause harm to individuals, communities, and society. Detecting deepfakes can help combat fake news and other forms of fraud. In this project, we're going to build deep learning models to detect and classify whether a face image is real or fake based on the input images.
