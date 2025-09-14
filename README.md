@@ -2,7 +2,9 @@
 
 ## 1. Project Overview
 
-While deepfake technology can be useful in some areas such as entertainment and education, its misuse can cause harm to individuals, communities, and society. Detecting deepfakes can help combat fake news and other forms of fraud. In this project, we're going to build deep learning models to detect and classify whether a face image is real or fake based on the input images.
+While deepfake technology can be useful in some areas such as entertainment and education, its misuse can cause harm to individuals, communities, and society. Detecting deepfakes can help combat fake news and other forms of fraud. 
+
+In this project, we're going to build deep learning models to detect and classify whether a face image is real or fake based on the input images.
 
 ### About the dataset
 We will be using the [140k Real and Fake Faces](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces/) dataset from Kaggle. This dataset contains 70,000 real faces (from Flickr) and 70,000 fake faces (GAN-generated), divided into 3 subsets:
@@ -43,5 +45,5 @@ All images are 256x265px, RGB color, JPEG format.
 - Perfom EDA
 - Build, evaluate test our CNN models.
 - Hyperparameter tuning (Keras tunner).
-- Transfer learning (using InceptionV3).
+- Transfer learning (InceptionV3).
 - Summarize, compare and discuss the results.
